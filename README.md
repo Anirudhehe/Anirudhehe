@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Graphic designer and a cse under graduate student with a decent experience in designing <br>and i am learning to code and webdev 
+Photoshop open, VSCode minimized, and vice versa.<br>Portfolio bhi banana hai... par kal se.
 
 
 ## 🌐 Socials:
