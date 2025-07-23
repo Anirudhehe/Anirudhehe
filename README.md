@@ -1,5 +1,6 @@
 # 💫 About Me:
-Photoshop open, VSCode minimized, and vice versa.<br>Portfolio bhi banana hai... par kal se.
+`Photoshop open, VSCode minimized, and vice versa.`
+`Portfolio bhi banana hai... par kal se.`
 
 
 ## 🌐 Socials:
